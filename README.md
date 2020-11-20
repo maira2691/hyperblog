@@ -7,4 +7,4 @@ Con este blog entendí como hacer:
 - Todos los comandos de GIT
 - El flujo de trabajo en GitHub
 - Buenas prácticas en Git
-
+- Creado por el increíble Platzi Team
