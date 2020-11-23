@@ -8,3 +8,4 @@ Con este blog entendí como hacer:
 - El flujo de trabajo en GitHub
 - Buenas prácticas en Git
 - Creado por el increíble Platzi Team
+- Incluye ejemplos en Windows, Linux y Mac
